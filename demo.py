@@ -1,3 +1,4 @@
 print("Hello")
-print("Bienvenidos")
-print("Soy Diana")
+print()
+print("Welcome")
+print("I am Diana")
